@@ -2,6 +2,10 @@
 
 A web application that randomly generates memes from Reddit. Each time you click the "Generate" button, a new meme will be fetched from the r/memes subreddit and displayed on the page.
 
+## Demo
+
+Check out the live demo [here](https://volatile-viv.github.io/Random-Meme-Generator/).
+
 ## Features
 
 - Randomly generates memes from the r/memes subreddit
